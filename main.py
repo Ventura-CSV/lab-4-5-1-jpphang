@@ -11,8 +11,11 @@ def main():
     numbers = []
     
     #generate 5 random numbers (0~100) to store in list
-    while count < 5
-    
+    count = 0
+    while count < 5:
+        random_nums = random.randint(0,101)
+        numbers.append(random_nums)
+        count = count + 1
     
 
     print(f'The random values are {numbers}')
