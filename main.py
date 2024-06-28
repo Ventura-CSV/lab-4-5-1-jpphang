@@ -7,6 +7,11 @@ def main():
     Code Your Program here
     ########################################
     """
+    #initialize empty list
+    numbers = []
+    
+    #generate 5 random numbers (0~100)
+    
 
     print(f'The random values are {numbers}')
     print(f'The total is {total}')
