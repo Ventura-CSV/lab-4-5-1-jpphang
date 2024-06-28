@@ -7,11 +7,12 @@ def main():
     Code Your Program here
     ########################################
     """
-    #initialize empty list
+    #initialize
     numbers = []
+    total = 0
+    count = 0
     
     #generate 5 random numbers (0~100) to store in list
-    count = 0
     while count < 5:
         random_nums = random.randint(0,101)
         numbers.append(random_nums)
