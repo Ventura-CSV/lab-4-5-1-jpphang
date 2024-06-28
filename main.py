@@ -10,7 +10,9 @@ def main():
     #initialize empty list
     numbers = []
     
-    #generate 5 random numbers (0~100)
+    #generate 5 random numbers (0~100) to store in list
+    while count < 5
+    
     
 
     print(f'The random values are {numbers}')
