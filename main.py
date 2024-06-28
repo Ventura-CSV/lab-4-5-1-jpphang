@@ -17,6 +17,8 @@ def main():
         numbers.append(random_nums)
         count = count + 1
     
+    #calculate the sum
+    total = sum(numbers)
 
     print(f'The random values are {numbers}')
     print(f'The total is {total}')
